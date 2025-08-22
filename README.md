@@ -101,3 +101,5 @@ Use CSS to style the dashboard for better readability.
 Use AJAX or WebSockets for real-time updates without refreshing the page.
 
 OUTPUT:
+
+<img width="400" height="340" alt="Image" src="https://github.com/user-attachments/assets/9727e260-edb0-4987-b320-d1b4bb5dcdda" />
